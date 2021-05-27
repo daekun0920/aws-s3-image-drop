@@ -3,7 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-AmazonConfig.java
+!**/src/main/java/com/daekun/awsimageexer/config/
 
 ### STS ###
 .apt_generated
